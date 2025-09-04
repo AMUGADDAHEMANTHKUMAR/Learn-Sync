@@ -86,7 +86,7 @@ export default function Home() {
     <div className="min-h-screen bg-background relative">
       <FloatingParticles />
       {/* Hero Banner Section */}
-      <section className="py-20 px-4 bg-gradient-hero text-white relative z-10">
+      <section className="py-12 px-4 bg-gradient-hero text-white relative z-10">
         <div className="container mx-auto text-center animate-fade-in yellow-glow">
           <h1 className="text-6xl font-bold mb-6 animate-slide-up">
             <TypingText text="Your Roadmap to Self-Learning" speed={80} />

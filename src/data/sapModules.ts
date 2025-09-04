@@ -630,7 +630,7 @@ export const sapModules: Record<string, LearningPath> = {
     description: "Design and implement business intelligence and planning solutions",
     coreTopics: [
       "Data modeling and connectivity",
-      "Story building and visualization",
+      "Story building and visualization", 
       "Predictive analytics",
       "Planning and budgeting"
     ],
@@ -660,9 +660,93 @@ export const sapModules: Record<string, LearningPath> = {
         url: "https://developers.sap.com/tutorials/sac-getting-started.html"
       },
       {
-        title: "SAC Help Portal",
+        title: "SAC Help Portal", 
         description: "Official SAP Analytics Cloud documentation",
         url: "https://help.sap.com/docs/SAP_ANALYTICS_CLOUD"
+      }
+    ]
+  },
+
+  "sap-security": {
+    name: "SAP Security & GRC Consultant",
+    description: "Implement security controls and governance, risk & compliance solutions",
+    coreTopics: [
+      "Role-based authorization",
+      "GRC (Governance, Risk & Compliance)",
+      "Single Sign-On (SSO)",
+      "Security audit and compliance"
+    ],
+    beginner: [
+      "SAP security fundamentals",
+      "User and role management",
+      "Authorization concepts",
+      "Basic GRC principles"
+    ],
+    intermediate: [
+      "Complex role design",
+      "SOD (Segregation of Duties)",
+      "Access control implementation",
+      "Security monitoring"
+    ],
+    advanced: [
+      "Advanced GRC configuration",
+      "Identity management integration",
+      "Security architecture design",
+      "Compliance reporting"
+    ],
+    capacityPlanning: "Entry-level: 1 year SAP + security knowledge, Mid-level: 3-4 years, Senior: 6+ years with GRC expertise",
+    freeResources: [
+      {
+        title: "SAP Security Tutorial - TutorialsPoint",
+        description: "Complete SAP security tutorial",
+        url: "https://www.tutorialspoint.com/sap_security/index.htm"
+      },
+      {
+        title: "SAP GRC Documentation",
+        description: "Official SAP GRC documentation",
+        url: "https://help.sap.com/docs/SAP_RISK_MANAGEMENT"
+      }
+    ]
+  },
+
+  "sap-crm": {
+    name: "SAP CRM Consultant", 
+    description: "Implement customer relationship management solutions",
+    coreTopics: [
+      "Sales force automation",
+      "Marketing campaigns",
+      "Service management",
+      "Customer analytics"
+    ],
+    beginner: [
+      "CRM basics and navigation",
+      "Contact and account management",
+      "Opportunity management",
+      "Basic reporting"
+    ],
+    intermediate: [
+      "Marketing campaign setup",
+      "Service ticket management",
+      "Territory management",
+      "Integration with ERP"
+    ],
+    advanced: [
+      "Advanced analytics and insights",
+      "Custom development",
+      "Multi-channel integration",
+      "Migration to SAP Sales Cloud"
+    ],
+    capacityPlanning: "Entry-level: 6 months CRM knowledge, Mid-level: 2-3 years, Senior: 5+ years with cloud transition expertise",
+    freeResources: [
+      {
+        title: "SAP CRM Tutorial - TutorialsPoint",
+        description: "Complete SAP CRM tutorial",
+        url: "https://www.tutorialspoint.com/sap_crm/index.htm"
+      },
+      {
+        title: "SAP Sales Cloud Resources",
+        description: "Modern SAP CRM cloud solution resources",
+        url: "https://help.sap.com/docs/SAP_SALES_CLOUD"
       }
     ]
   }

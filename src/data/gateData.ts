@@ -21,15 +21,15 @@ export const gateRealData = {
       ],
       "Capacity Planning": "150+ hours preparation recommended",
       "Free Resources": [
-        "GeeksforGeeks GATE CS Complete Guide - https://www.geeksforgeeks.org/gate-cs-notes-gq/",
-        "GATE CS Previous Papers - https://www.geeksforgeeks.org/gate-question-papers/",
-        "MIT OpenCourseWare Algorithms - https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/",
-        "Stanford CS106B Programming Abstractions - https://web.stanford.edu/class/cs106b/",
-        "CMU Database Systems Course - https://15445.courses.cs.cmu.edu/fall2022/",
-        "NPTEL Computer Science Courses - https://nptel.ac.in/courses/106",
-        "YouTube: Gate Smashers CS Playlist",
-        "YouTube: Unacademy Computer Science GATE",
-        "GitHub: GATE CS Notes & Solutions"
+        "Gate Smashers Complete CSE Course - https://youtube.com/playlist?list=PLC36xJgs4dxEErKQZ7xFxat8oh4OepU34",
+        "Knowledge Gate GATE CSE - https://youtube.com/playlist?list=PLmXKhU9FNesSmu-_8Gd3FlRjwAGWTp_dL",
+        "GO Classes CSE Complete - https://youtube.com/playlist?list=PLEbnTDJUr_IeHYw_sfBOJ6gk5pie0yP-0",
+        "GeeksforGeeks GATE CS - https://www.geeksforgeeks.org/gate-cs-notes-gq/",
+        "Unacademy Computer Science - https://youtube.com/@UnacademyComputerScience",
+        "Data Structures Complete - https://youtube.com/playlist?list=PLEbnTDJUr_IeHYw_sfBOJ6gk5pie0yP-0",
+        "Operating Systems - https://youtube.com/playlist?list=PLLB_OuLWDooCvIv1KWvNFznlB2S54ZuQ2",
+        "Computer Networks - https://youtube.com/playlist?list=PLC36xJgs4dxHT-TxTy3U1slr5RaBJGaLd",
+        "Theory of Computation - https://youtube.com/playlist?list=PLC36xJgs4dxGvebewU4z2CZYo-8nB93E7"
       ]
     },
     EC: {
@@ -51,14 +51,14 @@ export const gateRealData = {
       ],
       "Capacity Planning": "180+ hours preparation recommended",
       "Free Resources": [
-        "NPTEL Electronics & Communication - https://nptel.ac.in/courses/108",
-        "All About Electronics YouTube Channel",
-        "Electronics Hub - Circuit Analysis",
-        "MIT OpenCourseWare Circuits and Electronics",
-        "GeeksforGeeks Electronics Notes",
-        "GATE EC Previous Papers - Free Download",
-        "Razavi Electronics Textbook Resources",
-        "YouTube: GATE Academy EC Lectures"
+        "All About Electronics - https://youtube.com/c/AllAboutElectronics",
+        "GATE Academy ECE - https://youtube.com/playlist?list=PLs5_Rtf2P2r5YY5b23uDGrtpo42ezMmGp",
+        "Electronics Hub Complete - https://youtube.com/c/ElectronicsHub",
+        "Analog Circuits - https://youtube.com/playlist?list=PLbRMhDVUMngehqNF2w_UbAi94qIycZOTG",
+        "Digital Circuits - https://youtube.com/playlist?list=PLbRMhDVUMnge4gDT0vBWjCb3Lz0HnYKkX",
+        "Communications - https://youtube.com/playlist?list=PLq-Gm0yRYwTgX2FkPVcY6io003-tZd8Ru",
+        "Signals & Systems - https://youtube.com/playlist?list=PLq-Gm0yRYwTjwxaqapPsSAHzs4_nkQLVr",
+        "EMFT - https://youtube.com/playlist?list=PLuv3GM6-gsE3-hVNaw-YEb7EeY5XVPZdz"
       ]
     },
     ME: {
@@ -71,6 +71,24 @@ export const gateRealData = {
         "Thermodynamics: Zeroth, First and Second laws, Properties of pure substances, Thermodynamic cycles",
         "Heat Transfer: Conduction, Convection, Radiation, Heat exchangers, Mass transfer",
         "Fluid Mechanics: Fluid properties, Fluid statics, Bernoulli's equation, Dimensional analysis, Flow through pipes"
+      ],
+      "Core Concepts": [
+        "Engineering Mechanics & SOM",
+        "Thermal Sciences",
+        "Manufacturing & Materials",
+        "Machine Design"
+      ],
+      "Capacity Planning": "180+ hours preparation recommended",
+      "Free Resources": [
+        "Manish Jindal GATE Mechanical - https://youtube.com/c/ManishJindal",
+        "Physics Wallah Mechanical - https://youtube.com/playlist?list=PLdpzxOOAlwvKwTyYNJCUwGPvql0TrsPgv",
+        "Endurance Engineering Academy - https://enduranceenggacademy.in/free-gate-mechanical-course/",
+        "BYJU'S Mechanical Complete - https://youtube.com/playlist?list=PLr3aZ3Y9l4i1TGfAErAhwoaikVB6286O7",
+        "Thermodynamics - https://youtube.com/playlist?list=PLvTTv60o7qj_tdY9zH7YceES7jfXiZkAz",
+        "Fluid Mechanics - https://youtube.com/playlist?list=PLs5_Rtf2P2r4hf2JoZtFdJQleAzmnOOVt",
+        "Strength of Materials - https://youtube.com/playlist?list=PLs5_Rtf2P2r5YY5b23uDGrtpo42ezMmGp",
+        "Heat Transfer - https://youtube.com/playlist?list=PLs5_Rtf2P2r7V6SAHIh95m3hP1bQ1OXor",
+        "Theory of Machines - https://youtube.com/playlist?list=PLs5_Rtf2P2r5AJvc-EuBEwdur_dUVojW-"
       ]
     },
     EE: {
@@ -83,6 +101,22 @@ export const gateRealData = {
         "Electrical Machines: Single and three-phase transformers, DC machines, Induction machines, Synchronous machines",
         "Power Systems: Power generation concepts, Transmission line models, Load flow analysis, Symmetrical components",
         "Control Systems: Mathematical modeling, Transfer functions, Block diagrams, Time response, Root-locus"
+      ],
+      "Core Concepts": [
+        "Circuit Analysis & Network Theory",
+        "Electrical Machines & Power Systems",
+        "Control Systems & Instrumentation",
+        "Electronics & Digital Systems"
+      ],
+      "Capacity Planning": "170+ hours preparation recommended",
+      "Free Resources": [
+        "GATE Academy EE - https://youtube.com/playlist?list=PLgzsL8klq6DJ6fwXWK4TN9T0flIRuVsAb",
+        "Ankit Goyal EE - https://youtube.com/playlist?list=PLs5_Rtf2P2r4hf2JoZtFdJQleAzmnOOVt",
+        "Network Theory - https://youtube.com/playlist?list=PLbRMhDVUMngfNnABo5mre45ZbHqJE2sUn",
+        "Electric Machines - https://youtube.com/playlist?list=PLbRMhDVUMngcDrGXlt-hX-ekpldUlC2b6",
+        "Power Systems - https://youtube.com/playlist?list=PLRWKj4sFG7-6gWwDMLI0Wy5DDRqyKP1uQ",
+        "Control Systems - https://youtube.com/playlist?list=PLyqSpQzTE6M8-wda5vbgHkMQTmu-21hRK",
+        "Digital Electronics - https://youtube.com/playlist?list=PLbRMhDVUMnge4gDT0vBWjCb3Lz0HnYKkX"
       ]
     },
     CE: {
@@ -95,6 +129,23 @@ export const gateRealData = {
         "Concrete Structures: Concrete technology, Working stress and Limit state design concepts",
         "Steel Structures: Analysis and design of tension and compression members, Beams and beam-columns",
         "Geotechnical Engineering: Properties of soils, Classification, Compaction, Seepage, Earth pressure theories"
+      ],
+      "Core Concepts": [
+        "Structural Engineering",
+        "Geotechnical Engineering", 
+        "Environmental Engineering",
+        "Transportation Engineering"
+      ],
+      "Capacity Planning": "160+ hours preparation recommended",
+      "Free Resources": [
+        "Civil Engineering Academy - https://youtube.com/c/CivilEngineeringAcademy",
+        "Engineer4Free - https://youtube.com/c/Engineer4Free",
+        "All About Civil Engineering - https://youtube.com/c/AllAboutCivilEngineering",
+        "Structural Analysis - https://youtube.com/playlist?list=PLOzRYVm0a65d8hOGvPyQNv6pjEZdFGdvE",
+        "Geotechnical Engineering - https://youtube.com/playlist?list=PLOzRYVm0a65cJkMG4sWAj2HTrJL_K-FfE",
+        "Environmental Engineering - https://youtube.com/playlist?list=PLOzRYVm0a65eIqF4K2GqIMgpvdRvJLHOd",
+        "Transportation Engineering - https://youtube.com/playlist?list=PLOzRYVm0a65dGPGdq5kVZj4xPOW4D7U5l",
+        "Water Resources - https://youtube.com/playlist?list=PLOzRYVm0a65cNzH9I_VQfcL_3W2Cp7kJW"
       ]
     },
     CH: {
@@ -106,6 +157,21 @@ export const gateRealData = {
         "Heat Transfer: Conduction, Convection, Radiation, Heat exchangers, Evaporation",
         "Mass Transfer: Diffusion, Distillation, Absorption, Extraction, Drying",
         "Chemical Reaction Engineering: Kinetics, Reactor design, Non-ideal reactors"
+      ],
+      "Core Concepts": [
+        "Process Calculations & Thermodynamics",
+        "Transport Phenomena",
+        "Chemical Reaction Engineering",
+        "Process Equipment Design"
+      ],
+      "Capacity Planning": "150+ hours preparation recommended",
+      "Free Resources": [
+        "Unacademy GATE Chemical - https://youtube.com/@UnacademyGATEChemical",
+        "GATEFORUM Chemical - https://youtube.com/watch?v=wGkK-Ucoph4",
+        "Chemical Engineering Complete - https://youtube.com/watch?v=m8My2N4FgOM",
+        "Mass Transfer Operations - https://youtube.com/watch?v=wGkK-Ucoph4",
+        "Chemical Reaction Engineering - https://youtube.com/watch?v=4ARLIMdnjR8",
+        "Process Calculations - https://youtube.com/watch?v=eJLzdnS0KnU"
       ]
     },
     BT: {
@@ -115,6 +181,20 @@ export const gateRealData = {
         "General Biotechnology: Biochemistry, Microbiology, Molecular biology, Cell biology",
         "Recombinant DNA Technology: Genetic engineering, Cloning vectors, DNA sequencing",
         "Bioprocess Engineering: Fermentation technology, Downstream processing, Bioreactors"
+      ],
+      "Core Concepts": [
+        "Biochemistry & Cell Biology",
+        "Molecular Biology & Genetics",
+        "Bioprocess Engineering",
+        "Bioinformatics & Computational Biology"
+      ],
+      "Capacity Planning": "120+ hours preparation recommended",
+      "Free Resources": [
+        "Biotecnika GATE Biotech - https://youtube.com/watch?v=duKlUnwfJ_E",
+        "Shomu's Biology GATE BT - https://youtube.com/watch?v=VflXUZYb6TI",
+        "GATE Biotech Preparation - https://youtube.com/watch?v=I3utiCMwFfA",
+        "Biotech Strategy 2025 - https://youtube.com/watch?v=Y7zsfmBnRGY",
+        "Life Science Preparation - https://youtube.com/watch?v=NqVNCuf5gNA"
       ]
     },
     IN: {
@@ -124,6 +204,19 @@ export const gateRealData = {
         "Measurements and Instrumentation: Error analysis, Statistical analysis, Measurement systems",
         "Transducers and Signal Conditioning: Sensors, Signal conditioning circuits, Data acquisition",
         "Control Systems: Mathematical modeling, Controller design, Stability analysis"
+      ],
+      "Core Concepts": [
+        "Measurements & Instrumentation",
+        "Control Systems",
+        "Electronics & Communication",
+        "Process Instrumentation"
+      ],
+      "Capacity Planning": "140+ hours preparation recommended",
+      "Free Resources": [
+        "BYJU'S Instrumentation - https://youtube.com/watch?v=vUVHSvik9e8",
+        "Instrumentation Complete - https://youtube.com/watch?v=O1Hq5bDWISk",
+        "Instrumentation Roadmap - https://youtube.com/watch?v=t2AGxh-jimI",
+        "IIT Roorkee IN Analysis - https://youtube.com/watch?v=yY4nV8lYrx8"
       ]
     },
     PI: {
@@ -133,6 +226,19 @@ export const gateRealData = {
         "Engineering Materials: Structure and properties, Heat treatment, Material testing",
         "Manufacturing Processes: Casting, Forming, Machining, Welding, Non-traditional processes",
         "Industrial Engineering: Work study, Plant layout, Quality control, Operations research"
+      ],
+      "Core Concepts": [
+        "Manufacturing Processes",
+        "Industrial Engineering",
+        "Materials Science",
+        "Operations Research"
+      ],
+      "Capacity Planning": "150+ hours preparation recommended",
+      "Free Resources": [
+        "IGC Production Engineering - https://youtube.com/watch?v=rmAX_JFqepU",
+        "Industrial Engineering Marathon - https://youtube.com/watch?v=tU7FdDBRVjU",
+        "Production Engineering Complete - https://youtube.com/watch?v=ICjMA5MjOd0",
+        "BYJU'S Production & Industrial - https://youtube.com/playlist?list=PLr3aZ3Y9l4i2F0QCKI2BhEgxY3ZG-xrBy"
       ]
     },
     TF: {
@@ -142,6 +248,19 @@ export const gateRealData = {
         "Fibre Science: Fibre structure, Properties, Testing methods",
         "Yarn Manufacture: Spinning processes, Yarn properties, Quality control",
         "Fabric Manufacture: Weaving, Knitting, Non-woven technologies"
+      ],
+      "Core Concepts": [
+        "Fibre Science & Technology",
+        "Yarn Manufacturing",
+        "Fabric Production",
+        "Textile Processing"
+      ],
+      "Capacity Planning": "130+ hours preparation recommended",
+      "Free Resources": [
+        "Textile Education Centre - https://youtube.com/@TextileEducationCentreGATETF",
+        "GATE Textile Complete - https://youtube.com/watch?v=f85uoxcuBpU",
+        "Textile Strategy 2026 - https://youtube.com/watch?v=2fSZNlwOJcc",
+        "Technical Tex Solutions - https://technicaltexsolutions.com/"
       ]
     },
     GG: {
@@ -151,6 +270,18 @@ export const gateRealData = {
         "Geology: Mineralogy, Petrology, Structural geology, Stratigraphy",
         "Geophysics: Gravity, Magnetic, Seismic, Electrical methods",
         "Hydrogeology: Groundwater flow, Well hydraulics, Water quality"
+      ],
+      "Core Concepts": [
+        "General Geology",
+        "Geophysics",
+        "Hydrogeology & Environmental Geology",
+        "Applied Geology"
+      ],
+      "Capacity Planning": "140+ hours preparation recommended",
+      "Free Resources": [
+        "Planet Geology GATE - https://planet-geology.com/geology-gate-gsi-courses/",
+        "GATE Geology Complete - https://youtube.com/watch?v=ICjMA5MjOd0",
+        "KP Classes Geology - https://www.mentogate.com/course/gate-geology-study-material"
       ]
     },
     MT: {
@@ -160,6 +291,19 @@ export const gateRealData = {
         "Thermodynamics and Kinetics: Phase diagrams, Reaction kinetics, Transport phenomena",
         "Extractive Metallurgy: Pyrometallurgy, Hydrometallurgy, Electrometallurgy",
         "Physical Metallurgy: Crystal structure, Phase transformations, Mechanical properties"
+      ],
+      "Core Concepts": [
+        "Thermodynamics & Kinetics",
+        "Extractive Metallurgy",
+        "Physical Metallurgy",
+        "Mechanical Metallurgy"
+      ],
+      "Capacity Planning": "140+ hours preparation recommended",
+      "Free Resources": [
+        "FindMyTest Metallurgy - https://findmytest.com/gate-metallurgy-online-coaching-video-lectures-mt-schedule/",
+        "Metallurgy Complete - https://youtube.com/watch?v=ANkrrXLc3FI",
+        "Metallurgy Rank 50 - https://youtube.com/watch?v=lj6_zyRmyHw",
+        "TestUrSelf MT - https://www.testurself.in/3393-2/"
       ]
     },
     PH: {
@@ -169,6 +313,19 @@ export const gateRealData = {
         "Mathematical Physics: Linear algebra, Complex analysis, Differential equations",
         "Classical Mechanics: Lagrangian and Hamiltonian formalism, Central force problems",
         "Quantum Mechanics: Wave functions, Operators, Perturbation theory"
+      ],
+      "Core Concepts": [
+        "Mathematical Physics",
+        "Classical Mechanics",
+        "Quantum Mechanics",
+        "Statistical Mechanics"
+      ],
+      "Capacity Planning": "160+ hours preparation recommended",
+      "Free Resources": [
+        "IFAS Physics Complete - https://youtube.com/watch?v=Sc4csWQklT4",
+        "GATE Physics 2026 - https://youtube.com/watch?v=dj8VAHvemJM",
+        "Physics Preparation Strategy - https://youtube.com/watch?v=93ZHv8bbOrY",
+        "IFAS Online - https://ifasonline.com/csir-net/physical-science/9"
       ]
     },
     CY: {
@@ -178,6 +335,19 @@ export const gateRealData = {
         "Physical Chemistry: Thermodynamics, Kinetics, Quantum chemistry",
         "Inorganic Chemistry: Coordination compounds, Solid state chemistry",
         "Organic Chemistry: Reaction mechanisms, Stereochemistry, Synthesis"
+      ],
+      "Core Concepts": [
+        "Physical Chemistry",
+        "Inorganic Chemistry",
+        "Organic Chemistry",
+        "Analytical Chemistry"
+      ],
+      "Capacity Planning": "150+ hours preparation recommended",
+      "Free Resources": [
+        "VedPrep Chemistry - https://youtube.com/watch?v=iFB3FSSIGSM",
+        "MadChem Classes - https://youtube.com/watch?v=ke8wp2HDjas",
+        "J Chemistry Team - https://youtube.com/watch?v=Gp0_xyavLfQ",
+        "GATE Chemistry Strategy - https://youtube.com/watch?v=142"
       ]
     },
     MA: {
@@ -187,6 +357,19 @@ export const gateRealData = {
         "Real Analysis: Sequences, Series, Continuity, Differentiability",
         "Linear Algebra: Vector spaces, Linear transformations, Eigenvalues",
         "Complex Analysis: Analytic functions, Contour integration, Residue theorem"
+      ],
+      "Core Concepts": [
+        "Real Analysis",
+        "Linear Algebra",
+        "Complex Analysis",
+        "Differential Equations"
+      ],
+      "Capacity Planning": "170+ hours preparation recommended",
+      "Free Resources": [
+        "IFAS Mathematics - https://youtube.com/watch?v=dtuqEy9YIYE",
+        "Dr. Gajendra Purohit - https://youtube.com/watch?v=MEi4VolE-f4",
+        "Engineering Maths Complete - https://youtube.com/watch?v=lHPUClo4G-U",
+        "GeeksforGeeks Maths - https://youtube.com/watch?v=bBH-96y8an0"
       ]
     },
     ST: {
@@ -196,6 +379,18 @@ export const gateRealData = {
         "Probability: Random variables, Distributions, Limit theorems",
         "Statistical Inference: Estimation, Testing of hypotheses, Confidence intervals",
         "Applied Statistics: Regression analysis, Design of experiments, Multivariate analysis"
+      ],
+      "Core Concepts": [
+        "Probability Theory",
+        "Statistical Inference",
+        "Applied Statistics",
+        "Stochastic Processes"
+      ],
+      "Capacity Planning": "140+ hours preparation recommended",
+      "Free Resources": [
+        "GATE Statistics Preparation - https://testbook.com/gate-statistics/preparation-tips",
+        "Statistics Complete Course - https://www.oswaalbooks.com/pages/gate-free-resources",
+        "IFAS Statistics - https://ifasonline.com/csir-net/mathematical-science/9"
       ]
     },
     AR: {
@@ -205,6 +400,19 @@ export const gateRealData = {
         "Architectural Design: Design principles, Building planning, Site planning",
         "Building Construction: Materials, Methods, Structural systems",
         "Planning: Urban planning, Regional planning, Environmental planning"
+      ],
+      "Core Concepts": [
+        "Architectural Design",
+        "Building Construction",
+        "Planning & Development",
+        "Environmental Planning"
+      ],
+      "Capacity Planning": "120+ hours preparation recommended",
+      "Free Resources": [
+        "KP Classes Architecture - https://youtube.com/watch?v=Gr8qLuxqHDM",
+        "GATE AR Complete - https://youtube.com/watch?v=NAyqsAJHgxs",
+        "Architecture 2026 - https://youtube.com/watch?v=158",
+        "Memory Based Questions - https://youtube.com/watch?v=DK4vszS_lUY"
       ]
     },
     NM: {
@@ -214,6 +422,18 @@ export const gateRealData = {
         "Engineering Mechanics and Strength of Materials: Statics, Dynamics, Stress analysis",
         "Fluid Mechanics and Marine Hydrodynamics: Ship resistance, Propulsion",
         "Naval Architecture: Ship design, Stability, Construction and production"
+      ],
+      "Core Concepts": [
+        "Engineering Mechanics",
+        "Marine Hydrodynamics",
+        "Naval Architecture",
+        "Marine Engineering"
+      ],
+      "Capacity Planning": "130+ hours preparation recommended",
+      "Free Resources": [
+        "Naval Architecture 101 - https://youtube.com/watch?v=6nV9r3u_-Dw",
+        "Naval Architecture Complete - https://youtube.com/watch?v=tDftje1P8rQ",
+        "Shrenik Naval - https://youtube.com/watch?v=cAAyBcn4RBM"
       ]
     },
     MN: {
@@ -223,6 +443,17 @@ export const gateRealData = {
         "Mining Methods: Surface mining, Underground mining, Mine planning",
         "Rock Mechanics: Rock properties, Ground control, Slope stability",
         "Mine Safety: Ventilation, Explosives, Environmental considerations"
+      ],
+      "Core Concepts": [
+        "Mining Methods",
+        "Rock Mechanics",
+        "Mine Safety & Environment",
+        "Mineral Processing"
+      ],
+      "Capacity Planning": "130+ hours preparation recommended",
+      "Free Resources": [
+        "Mining Engineering Complete - https://www.oswaalbooks.com/pages/gate-free-resources",
+        "GATE Mining Resources - https://www.selfstudys.com/page/gate-study-materials"
       ]
     },
     AE: {
@@ -232,6 +463,19 @@ export const gateRealData = {
         "Engineering Mechanics: Statics, Dynamics, Strength of materials",
         "Flight Mechanics: Aircraft performance, Stability and control",
         "Propulsion: Gas turbines, Rocket propulsion, Propeller theory"
+      ],
+      "Core Concepts": [
+        "Engineering Mechanics",
+        "Flight Mechanics",
+        "Aerospace Propulsion",
+        "Aerospace Structures"
+      ],
+      "Capacity Planning": "160+ hours preparation recommended",
+      "Free Resources": [
+        "Gateing Aerospace - https://gateing.com/",
+        "IGC Aerospace - https://youtube.com/watch?v=HHJXnOLQ8Bc",
+        "Aerospace Study Material - https://www.goodwillgate2iit.com/study-material.html",
+        "Aerospace Books - https://gateing.com/reference-books-for-gate-aerospace-2026/"
       ]
     },
     AG: {
@@ -241,6 +485,19 @@ export const gateRealData = {
         "Farm Machinery: Tractors, Tillage equipment, Harvesting machinery",
         "Irrigation and Drainage: Water requirements, Irrigation methods, Drainage systems",
         "Food Processing: Post-harvest technology, Food preservation, Processing equipment"
+      ],
+      "Core Concepts": [
+        "Farm Machinery & Power",
+        "Soil & Water Engineering",
+        "Post Harvest Technology",
+        "Renewable Energy"
+      ],
+      "Capacity Planning": "120+ hours preparation recommended",
+      "Free Resources": [
+        "AGRIYUG Complete - https://youtube.com/watch?v=t07KYrcxkbg",
+        "Agriculture GK - https://youtube.com/watch?v=mjYvc60b0p4",
+        "GATEFORALL AG - https://youtube.com/watch?v=yFr74tjD4oo",
+        "Agricultural Engineering - https://youtube.com/watch?v=1gso5OU8p0Q"
       ]
     }
   }

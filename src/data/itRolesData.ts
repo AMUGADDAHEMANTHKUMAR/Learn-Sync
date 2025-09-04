@@ -69,29 +69,44 @@ export const itRolesData = {
     ],
     "Free Resources": [
       {
-        title: "FreeCodeCamp - Full Stack Development",
+        title: "FreeCodeCamp Full Stack Development",
         url: "https://www.freecodecamp.org/learn",
         description: "Complete web development curriculum"
       },
       {
-        title: "LeetCode - Algorithm Practice",
-        url: "https://leetcode.com/problemset/all/",
+        title: "takeUforward DSA Course",
+        url: "https://takeuforward.org/strivers-a2z-dsa-course/",
+        description: "Complete Data Structures & Algorithms"
+      },
+      {
+        title: "CodeWithHarry DSA",
+        url: "https://youtube.com/playlist?list=PLu0W_9lII9ahIappRPN0MCAgtOu3lQjQi",
+        description: "DSA in Hindi/English"
+      },
+      {
+        title: "JavaScript Mastery",
+        url: "https://youtube.com/playlist?list=PLillGF-RfqbbnEGy3ROiLWk7JMCuSyQtX",
+        description: "Complete JavaScript course"
+      },
+      {
+        title: "Python Complete Course",
+        url: "https://youtube.com/playlist?list=PLsyeobzWxl7poL9JTVyndKe62ieoN-MZ3",
+        description: "Python from beginner to advanced"
+      },
+      {
+        title: "Java Programming",
+        url: "https://youtube.com/playlist?list=PLsyeobzWxl7pe_IiTfNyr55kwJPWbgxB5",
+        description: "Complete Java programming"
+      },
+      {
+        title: "NeetCode Algorithms",
+        url: "https://youtube.com/c/NeetCode",
         description: "Coding interview preparation"
       },
       {
-        title: "GitHub Learning Lab",
-        url: "https://lab.github.com/",
-        description: "Learn Git and GitHub"
-      },
-      {
-        title: "MDN Web Docs",
-        url: "https://developer.mozilla.org/en-US/",
-        description: "Web technologies documentation"
-      },
-      {
-        title: "The Odin Project",
-        url: "https://www.theodinproject.com/",
-        description: "Full-stack web development course"
+        title: "Abdul Bari Algorithms",
+        url: "https://youtube.com/playlist?list=PLDN4rrl48XKpZkf03iYFl-O29szjTrs_O",
+        description: "Algorithm design and analysis"
       }
     ]
   },
@@ -148,29 +163,39 @@ export const itRolesData = {
     ],
     "Free Resources": [
       {
-        title: "Web.dev by Google",
-        url: "https://web.dev/learn/",
-        description: "Modern web development guidance"
+        title: "Traversy Media Web Development",
+        url: "https://youtube.com/playlist?list=PLillGF-RfqbbnEGy3ROiLWk7JMCuSyQtX",
+        description: "Complete web development course"
       },
       {
-        title: "React Official Tutorial",
-        url: "https://react.dev/learn",
-        description: "Learn React from the official docs"
+        title: "freeCodeCamp Full Stack",
+        url: "https://youtube.com/watch?v=nu_pCVPKzTk",
+        description: "Full stack development bootcamp"
       },
       {
-        title: "CSS Tricks",
-        url: "https://css-tricks.com/",
-        description: "CSS tutorials and references"
+        title: "React Complete Course",
+        url: "https://youtube.com/playlist?list=PLC3y8-rFHvwgg3vaYJgHGnModB54rxOk3",
+        description: "Learn React from basics to advanced"
       },
       {
-        title: "JavaScript.info",
-        url: "https://javascript.info/",
-        description: "Modern JavaScript tutorial"
+        title: "Vue.js Tutorial",
+        url: "https://youtube.com/playlist?list=PL4cUxeGkcC9gQcYgjhBoeQH7wiAyZNrYa",
+        description: "Complete Vue.js course"
       },
       {
-        title: "Node.js Learn",
-        url: "https://nodejs.org/en/learn",
-        description: "Official Node.js learning resources"
+        title: "Angular Complete Guide",
+        url: "https://youtube.com/playlist?list=PLTjRvDozrdlxAhsPP4ZYtt3G8KbJ449oT",
+        description: "Angular from beginner to expert"
+      },
+      {
+        title: "Full Stack JavaScript",
+        url: "https://youtube.com/watch?v=H3XIJYEPdus",
+        description: "MEAN/MERN stack development"
+      },
+      {
+        title: "React 4 Projects",
+        url: "https://youtube.com/watch?v=82PXenL4MGg",
+        description: "Build real React projects"
       }
     ]
   },

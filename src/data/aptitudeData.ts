@@ -61,16 +61,16 @@ export const aptitudeData = {
       }
     },
     "Free Resources": [
-      "R.S. Aggarwal Quantitative Aptitude - Free PDFs",
-      "GATE Aptitude by S.K. Mondal - Free Notes",
-      "Verbal and Non-Verbal Reasoning by R.S. Aggarwal",
-      "GeeksforGeeks Aptitude Section - https://www.geeksforgeeks.org/aptitude-questions-and-answers/",
+      "Arun Sharma Quantitative Aptitude - https://youtube.com/playlist?list=PLpyc33gOcbVAWjzLuPqyOfBHHuTb24r6w",
+      "Career Launcher Quant - https://youtube.com/playlist?list=PLpyc33gOcbVBhCwHUmNPszzA4ATMhBOWo",
+      "Unacademy Aptitude - https://unacademy.com/goal/cat-preparation/",
+      "Hitbullseye Reasoning - https://youtube.com/playlist?list=PLpyc33gOcbVB1ygCPYEn7Qj-YNLZmkKqX",
+      "Study IQ Reasoning - https://youtube.com/playlist?list=PLF9RWT24jvpHBu5E-pMDVJQenGz5vfOuS",
+      "English by Sandeep Kesarwani - https://youtube.com/playlist?list=PLpyc33gOcbVDqBhXQhTzaZMkNHKjWGa-x",
+      "GeeksforGeeks Aptitude - https://www.geeksforgeeks.org/aptitude-questions-and-answers/",
       "IndiaBIX Aptitude Tests - https://www.indiabix.com/",
-      "Youth4Work Aptitude Practice - https://www.youth4work.com/",
-      "Freshersworld Aptitude - https://www.freshersworld.com/",
-      "YouTube: Unacademy Aptitude for GATE",
-      "YouTube: Study IQ Quantitative Aptitude",
-      "Cracku Free Aptitude Tests - https://cracku.in/"
+      "Youth4Work Practice - https://www.youth4work.com/",
+      "Cracku CAT Preparation - https://cracku.in/"
     ]
   },
   
@@ -171,21 +171,19 @@ export const aptitudeData = {
       "Capgemini": "Quant, Logical, English, Technical - 60 mins"
     },
     "Free Resources": [
-      "PrepInsta Placement Prep - https://prepinsta.com/",
-      "InterviewBit Aptitude - https://www.interviewbit.com/",
-      "GeeksforGeeks Placement Preparation - https://www.geeksforgeeks.org/placement-preparation/",
-      "HackerEarth Aptitude - https://www.hackerearth.com/",
-      "IndiaBIX Company Tests - https://www.indiabix.com/",
-      "Sawaal Aptitude Questions - https://www.sawaal.com/",
-      "Lofoya Placement Papers - https://www.lofoya.com/",
-      "Freshersworld Company Papers - https://www.freshersworld.com/",
+      "PrepInsta Placement Preparation - https://prepinsta.com/",
+      "GeeksforGeeks Placement Prep - https://www.geeksforgeeks.org/placement-preparation/",
+      "HackerEarth Programming Practice - https://www.hackerearth.com/",
+      "InterviewBit Coding Practice - https://www.interviewbit.com/",
+      "IndiaBIX Company-wise Tests - https://www.indiabix.com/",
       "Youth4Work Mock Tests - https://www.youth4work.com/",
-      "Cracku CAT Preparation (Quant) - https://cracku.in/",
-      "Testpot Free Mock Tests - https://testpot.com/",
-      "Oliveboard Free Tests - https://www.oliveboard.in/",
-      "YouTube: Arun Sharma Quantitative Aptitude",
-      "YouTube: Arithmetic Simplified Channel",
-      "YouTube: Reasoning by Deepak Sir"
+      "Cracku Aptitude Tests - https://cracku.in/",
+      "Arun Sharma Quantitative Playlist - https://youtube.com/playlist?list=PLpyc33gOcbVAWjzLuPqyOfBHHuTb24r6w",
+      "Career Launcher Aptitude - https://youtube.com/playlist?list=PLpyc33gOcbVBhCwHUmNPszzA4ATMhBOWo",
+      "Hitbullseye Reasoning - https://youtube.com/playlist?list=PLpyc33gOcbVB1ygCPYEn7Qj-YNLZmkKqX",
+      "Study IQ Reasoning - https://youtube.com/playlist?list=PLF9RWT24jvpHBu5E-pMDVJQenGz5vfOuS",
+      "English by Sandeep - https://youtube.com/playlist?list=PLpyc33gOcbVDqBhXQhTzaZMkNHKjWGa-x",
+      "Verbal Ability Arun Sharma - https://youtube.com/playlist?list=PLpyc33gOcbVAR2-eVLfgmYMlqvOdkHWWj"
     ]
   },
 
